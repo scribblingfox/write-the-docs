@@ -5,4 +5,4 @@ title: Home
 
 Hello world!
 
-BEEPITY BOOP MOTHERFUCKER
+BEEPITY BOOP
